@@ -1,0 +1,248 @@
+.body {
+    margin: 0;
+    padding: 0;
+    }
+    .wrapper {
+        
+        height: auto;
+        width: 100%;
+        margin: 0 auto;
+        background-color: rgb(57, 56, 58);
+    }
+    i.fa.fa-plus.fa-style {
+        font-size: 20px;
+        color: black;
+    }
+    i.fa.fa-minus.fa-style {
+        font-size: 20px;
+        color: black;
+    }
+    i.fa.fa-plus.fa-style:hover {
+        color: red;
+    }
+    i.fa.fa-minus.fa-style:hover {
+        color: red;
+    }
+    .wrapper_chitiet {
+        height: auto;
+        width: 100%;
+        margin: 0 auto;
+        padding: 50px;
+    }
+    .hinhanh_baihat{
+        text-align: center;
+        width: 50%;
+    }
+    .chitiet_baihat{
+        text-align: center;
+        padding-top: 25px;
+        height:auto;
+        
+    }
+   
+    
+    .header {
+        background-image: url(../images/logoamnhac2.png);
+        background-repeat: no-repeat;
+        background-size: 100% 180px;
+        
+        height: 180px;
+        width: 100%;
+    }
+    .menu {
+        
+        height: auto;
+        width: 100%;
+        background-color: rgb(102, 97, 105);
+       
+    }
+   
+    ul.list_menu {
+        padding: 0;
+         margin: 0;
+        list-style: none;
+        width: 90%;
+        
+        list-style: none;
+        margin: 0 auto;
+        line-height: 27px;
+        text-align: center;
+    }
+    
+    ul.list_menu li a {
+        text-decoration: none;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        background-color: rgb(171, 170, 181);
+    }
+    ul.list_menu li {
+        float: left;
+        margin: 7px;
+        padding: 5px;
+       
+    }
+    #main {
+        
+        height: auto;
+        width: 100%;
+    }
+    
+    .maincontent {
+        height: auto;
+        width: 100%;
+        background: linear-gradient(to bottom, #6600cc 0%, #131314 100%);
+        
+        
+    }
+    ul.product-list {
+        padding-left: 130px;
+        padding-right: 4px;
+        padding-bottom: 10px;
+        margin: 0;
+        list-style: none;
+        width: 90%;
+        
+    }
+
+    ul.product-list1 {
+        padding-left: 130px;
+        padding-right: 4px;
+        margin: 0;
+        list-style: none;
+        width: 90%;
+        text-align: center;
+        height: 400px;
+        
+    }
+    
+    ul.product-list1 li {
+        margin-left: auto;
+        
+        margin: 18px;
+        padding: 15px;
+        height: auto;
+        background: url(../images/backgroundmusic.jpg);
+    }
+   
+
+
+   
+    /*ul.product-list li img {
+        height: 190px;
+    }*/
+    ul.product-list li {
+        margin-left: auto;
+        
+        margin: 18px;
+        padding: 15px;
+        height: auto;
+        background: url(../images/backgroundmusic.jpg);
+    }
+    ul.product-list li a {
+        text-decoration: none;
+        
+    }
+    ul.product-list li img {
+        width: 100%;
+    }
+    p.price_product {
+        text-align: center;
+        color: rgb(238, 238, 238);
+        font-size: 16px;
+        font-weight: bold;
+    }
+    p.title_product {
+        text-align: center;
+        color: rgb(197, 174, 174);
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .footer {
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px ;
+        height: auto;
+        width: 100%;
+        background-color: rgb(37, 44, 42);
+    }
+    p.footer_copyright {
+        text-align: center;
+        color: #000;
+    }
+    .clear {
+        clear: both;
+    }
+ .timkiem{
+     text-align: center;
+     margin: 10px;
+     
+ }
+  .a{
+      text-align: center;
+    display: inline-block;
+     background-color: aquamarine;
+        border: 1px solid #000;
+        width: 100%;
+        padding-bottom: 10px;
+  }
+  .timkiem input{
+    text-align: center;
+    display:inline-block;
+      padding: 10px;
+      border-radius: 15px;
+    }
+    .c{
+        text-align: center
+    }
+
+    .baihat{
+        text-align: center;
+        height: auto;
+    }
+
+    .container1{
+        padding: 70px;
+    }
+   .footer a {
+       margin: 5px;
+   }
+   .footer2 a {
+    margin-top: 50px;
+}
+   .f{
+       width: 100%;
+   }
+   .f tr td {
+       width: 50%;
+   }
+
+   .nav>li>a:hover{
+    background-color: rgb(241, 54, 54);
+   }
+   .lyric{
+       margin: auto;
+    padding-top: 10px;
+    color: rgb(254, 254, 254);
+    
+    width: 30%;
+    text-align: center;
+   
+   }
+
+    
+   #echo {
+    text-align: center;
+    color: rgb(229, 211, 211);
+
+}
+    #canhbaodangnhap{
+    text-align: center;
+    color: rgb(229, 211, 211);
+    }
+
+
+
+
+
+    
+
